@@ -25,6 +25,32 @@ For this course, I will be building a simplified version of the financial dashbo
 
 ### Chapter 2: CSS Styling
 
-- 🚧 How to add a global CSS file to your application.
-- 🚧 Two different wayys of styling: Tailwind and CSS modules.
-- 🚧 How to conditionally add class names with the `clsx` library.
+- ✔ How to add a global CSS file to your application.
+- ✔ Two different ways of styling: Tailwind and CSS modules.
+- ✔ How to conditionally add class names with the `clsx` library.
+
+### Chapter 3: Optimizing Fonts and Images
+
+- ✔ How to add custom fonts with `next/font`.
+- ✔ How to add images with `next/image`.
+- ✔ How fonts and images are optimized in Next.js.
+
+### Chapter 4: Creating Layouts and Pages
+
+- ✔ Create the `dashboard` routes using file-system routing.
+- ✔ Understand the role of folders and files when creating new route segments.
+- ✔ Create a nested layout that can be shared between multiple dashboard pages.
+- ✔ Understand what colocation, partial rendering, and the root layout are.
+
+### Chapter 5: Navigating Between Pages
+
+- ✔ How to use the `next/link` component.
+- ✔ How to show an active link with the `usePathname()` hook.
+- ✔ How navigation works in Next.js.
+
+## Chapter 6: Setting Up Your Database
+
+- 🚧 Push your project to GitHub.
+- 🚧 Set up a Vercel account and link your GitHub repo for instant previews and deployments.
+- 🚧 Create and link your project to a Postgres database.
+- 🚧 Seed the database with initial data.
