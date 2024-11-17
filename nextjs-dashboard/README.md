@@ -48,9 +48,23 @@ For this course, I will be building a simplified version of the financial dashbo
 - ✔ How to show an active link with the `usePathname()` hook.
 - ✔ How navigation works in Next.js.
 
-## Chapter 6: Setting Up Your Database
+### Chapter 6: Setting Up Your Database
 
-- 🚧 Push your project to GitHub.
-- 🚧 Set up a Vercel account and link your GitHub repo for instant previews and deployments.
-- 🚧 Create and link your project to a Postgres database.
-- 🚧 Seed the database with initial data.
+- ✔ Push your project to GitHub.
+- ✔ Set up a Vercel account and link your GitHub repo for instant previews and deployments.
+- ✔ Create and link your project to a Postgres database.
+- ✔ Seed the database with initial data.
+
+### Chapter 7: Fetching Data
+
+- ✔ Learn about some approaches to fetching data: APIs, ORMs, SQL, etc.
+- ✔ How Server Components can help you access back-end resources more securely.
+- ✔ What network waterfalls are.
+- ✔ How to implement parallel data fetching using a JavaScript Pattern.
+
+### Chapter 8: Static and Dynamic Rendering
+
+- 🚧 What static rendering is and how it can improve your application's performance.
+- 🚧 What dynamic rendering is and when to use it.
+- 🚧 Different approaches to make your dashboard dynamic.
+- 🚧 Simulate a slow data fetch to see what happens.
