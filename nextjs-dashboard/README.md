@@ -64,7 +64,20 @@ For this course, I will be building a simplified version of the financial dashbo
 
 ### Chapter 8: Static and Dynamic Rendering
 
-- 🚧 What static rendering is and how it can improve your application's performance.
-- 🚧 What dynamic rendering is and when to use it.
-- 🚧 Different approaches to make your dashboard dynamic.
-- 🚧 Simulate a slow data fetch to see what happens.
+- ✔ What static rendering is and how it can improve your application's performance.
+- ✔ What dynamic rendering is and when to use it.
+- ✔ Different approaches to make your dashboard dynamic.
+- ✔ Simulate a slow data fetch to see what happens.
+
+### Chapter 9: Streaming
+
+- ✔ What streaming is and when you might use it.
+- ✔ How to implement streaming with `loading.tsx` and Suspense.
+- ✔ What loading skeletons are.
+- ✔ What route groups are, and when you might use them.
+- ✔ Where to place Suspense boundaries in your application.
+
+### Chapter 10: Partial Prerendering
+
+- 🚧 What Partial Prerendering is.
+- 🚧 How Partial Prerendering works.
