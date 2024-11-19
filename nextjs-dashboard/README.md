@@ -79,5 +79,10 @@ For this course, I will be building a simplified version of the financial dashbo
 
 ### Chapter 10: Partial Prerendering
 
-- 🚧 What Partial Prerendering is.
-- 🚧 How Partial Prerendering works.
+- ✔ What Partial Prerendering is.
+- ✔ How Partial Prerendering works.
+
+### Chapter 11: Adding Search and Pagination
+
+- 🚧 Learn how to use the Next.js APIs: `useSearchParams`, `usePathname`, and `useRouter`.
+- 🚧 Implement search and pagination using URL search params.
