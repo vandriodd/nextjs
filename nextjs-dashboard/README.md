@@ -84,5 +84,18 @@ For this course, I will be building a simplified version of the financial dashbo
 
 ### Chapter 11: Adding Search and Pagination
 
-- 🚧 Learn how to use the Next.js APIs: `useSearchParams`, `usePathname`, and `useRouter`.
-- 🚧 Implement search and pagination using URL search params.
+- ✔ Learn how to use the Next.js APIs: `useSearchParams`, `usePathname`, and `useRouter`.
+- ✔ Implement search and pagination using URL search params.
+
+### Chapter 12: Mutating Data
+
+- ✔ What React Server Actions are and how to use them to mutate data.
+- ✔ How to work with forms and Server Components.
+- ✔ Best practices for working with the native `formData` object, including type validation.
+- ✔ How to revalidate the client cache using the `revalidatePath` API.
+- ✔ How to create dynamic route segments with specific IDs.
+
+### Chapter 13: Handling Error
+
+- 🚧 How to use the special error.tsx file to catch errors in your route segments, and show a fallback UI to the user.
+- 🚧 How to use the `notFound` function and `not-found` file to handle 404 errors _(for resources that don’t exist)_.
