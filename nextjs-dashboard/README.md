@@ -97,5 +97,11 @@ For this course, I will be building a simplified version of the financial dashbo
 
 ### Chapter 13: Handling Error
 
-- 🚧 How to use the special error.tsx file to catch errors in your route segments, and show a fallback UI to the user.
-- 🚧 How to use the `notFound` function and `not-found` file to handle 404 errors _(for resources that don’t exist)_.
+- ✔ How to use the special error.tsx file to catch errors in your route segments, and show a fallback UI to the user.
+- ✔ How to use the `notFound` function and `not-found` file to handle 404 errors _(for resources that don’t exist)_.
+
+### Chapter 14: Improving accessibility
+
+- 🚧 How to use `eslint-plugin-jsx-a11y` with Next.js to implement accessibility best practices.
+- 🚧 How to implement server-side form validation.
+- 🚧 How to use the React `useActionState` hook to handle form errors, and display them to the user.
