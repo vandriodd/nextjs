@@ -102,6 +102,13 @@ For this course, I will be building a simplified version of the financial dashbo
 
 ### Chapter 14: Improving accessibility
 
-- 🚧 How to use `eslint-plugin-jsx-a11y` with Next.js to implement accessibility best practices.
-- 🚧 How to implement server-side form validation.
-- 🚧 How to use the React `useActionState` hook to handle form errors, and display them to the user.
+- ✔ How to use `eslint-plugin-jsx-a11y` with Next.js to implement accessibility best practices.
+- ✔ How to implement server-side form validation.
+- ✔ How to use the React `useActionState` hook to handle form errors, and display them to the user.
+
+### Chapter 15: Adding Authentication
+
+- 🚧 What is authentication.
+- 🚧 How to add authentication to your app using NextAuth.js.
+- 🚧 How to use Middleware to redirect users and protect your routes.
+- 🚧 How to use React's `useActionState` to handle pending states and form errors.
